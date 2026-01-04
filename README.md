@@ -2,7 +2,14 @@
 
 A curated list of awesome resources for medical knowledge modeling
 
-## Ontologies
+### Ontologies
+
+- [SNOMED CT](https://www.snomed.org/) — A comprehensive, concept-based clinical terminology enabling precise representation of diseases, findings, procedures, and clinical observations for interoperable health data.
+- [International Classification of Diseases (ICD)](https://www.who.int/standards/classifications/classification-of-diseases) — A globally standardized classification system for coding diagnoses, causes of death, and health conditions, widely used for epidemiology, billing, and analytics.
+- [International Classification of Functioning, Disability and Health (ICF)](https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health) — A framework for modeling health and disability in terms of functioning, activities, participation, and environmental factors.
+- [International Classification of Health Interventions (ICHI)](https://www.who.int/standards/classifications/international-classification-of-health-interventions) — A standardized classification for describing and comparing health interventions across clinical and public health domains.
+- [ATC/DDD Index](https://atcddd.fhi.no/atc_ddd_index/) — A drug classification system organizing medications by therapeutic use and chemical characteristics, coupled with defined daily doses for drug utilization studies.
+- [DrugBank](https://go.drugbank.com/) — A richly curated biomedical database integrating detailed drug data with targets, mechanisms of action, pathways, and pharmacological relationships.
 
 ### Specifications
 
