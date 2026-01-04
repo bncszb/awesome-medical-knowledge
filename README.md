@@ -33,9 +33,6 @@ A curated list of awesome resources for medical knowledge modeling
 - [Clinical Quality Language](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
 - [CyclOps](https://github.com/VectorInstitute/cyclops) - Framework for healthcare ML implementation.
 - [FHIRBase](https://fhirbase.github.io) - Storage based on the FHIR Standard.
-- [FHIR Proxy](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
-- [FHIR Works on AWS](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
-- [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
 - [Inferno](https://inferno-framework.github.io) - providing testing tools for the FHIR
 - [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
 - [LinuxForHealth FHIR Server](https://github.com/LinuxForHealth/FHIR) - Modular Java implementation of version 4 of the HL7 FHIR specification.
@@ -113,5 +110,4 @@ A curated list of awesome resources for medical knowledge modeling
 
 - [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning.
 - [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
-- [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
 - [PyHealth](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
